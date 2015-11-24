@@ -2,7 +2,7 @@
 
 Flight Search simple HTML mobile page.
 
-[Demo](http://mickaelguillaume.esy.es/Lucio/index.html)
+[Demo](http://mickaelguillaume.esy.es/Flight-Search/index.html)
 
 ## License
 
