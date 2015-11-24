@@ -1,0 +1,68 @@
+/*
+===============================================
+
+[Main stylesheet my-app.css]
+
+Author:	        Guillaume Mickael
+Version:	    1.0
+Created:	    24.11.2015
+Last updated:	24.11.2015
+Template:	    Flight Search - HTML Mobile and Tablet Template
+
+=================================================
+*/
+body {
+  font-family: 'Lato', sans-serif;
+}
+
+.navbar {
+  background-color: white;
+}
+
+.statusbar-overlay {
+  background-color: white;
+}
+
+.toolbar-through .page-content {
+  background-color: #f9f9f9;
+}
+
+div[class*="col-"] {
+  background: #fff;
+  text-align: center;
+  padding: 5px;
+}
+
+.col-33.bold {
+  font-weight: 700;
+}
+
+.demo-card-header-pic .card-header {
+  height: 40vw;
+  background-size: cover;
+  background-position: center;
+}
+
+a.link.color-green {
+  font-weight: 700;
+}
+
+.card-content:before {
+  content: '';
+  position: absolute;
+  left: 0;
+  top: 0;
+  bottom: auto;
+  right: auto;
+  height: 1px;
+  width: 100%;
+  background-color: #e1e1e1;
+  display: block;
+  z-index: 15;
+  -webkit-transform-origin: 50% 0;
+  transform-origin: 50% 0;
+}
+
+i.fa.fa-plane {
+  font-size: 20px;
+}
